@@ -1,2 +1,1 @@
-#pragma once
-int x = 5;
+#include <glad/glad.h> 
